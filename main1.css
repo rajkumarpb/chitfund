@@ -1,0 +1,63 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background: #81b5d6;
+  max-width: 33em;
+}
+
+	h1 {
+  font-size: 22px;
+  color: #FFF;
+}
+h1 span {
+  font-weight: 300;
+}
+.wrap {
+  margin-top:300px;
+  max-width: 500px;
+}
+input[type=text],
+input[type=password]{
+  color:#FFF;
+  background: #68add8; /* Old browsers */
+  background: linear-gradient(45deg,  #68add8 0%,#8cbede 100%); /* W3C */
+  width:250px;
+  height:40px;
+  margin: 0 auto 10px auto;
+  font-size:14px;
+  padding-left:15px;
+  border:none;
+  box-shadow: -3px 3px #679acb ;
+  -webkit-appearance:none;
+  border-radius:0;
+  border-top: 1px solid #92c5e2;
+  border-right: 1px solid #92c5e2;
+}
+input::-webkit-input-placeholder {
+  color: #FFF;
+}
+input:focus {
+  outline:none;
+}
+input[type=submit] {
+    color: #fff;
+    background-color:#3f88b8;
+    font-size: 14px;
+    height: 40px;
+    border: none;
+    margin: 0 auto 0 17px;
+    padding: 0 20px 0 20px;
+    -webkit-appearance:none;
+    border-radius:0;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color:#3f7ba2;
+}

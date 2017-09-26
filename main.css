@@ -1,0 +1,133 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0 auto;
+  display: table;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  background: #81b5d6;
+  max-width: 1200px;
+}
+.a{
+  display: none;
+}
+
+	h1 {
+  font-size: 22px;
+  color: #FFF;
+}
+fieldset {
+  width: 100%;
+}
+#groupid,#memberid{
+  display: none;
+}
+.grid {
+    margin: 0 auto;
+    max-width:900px;
+    width: 100%;
+
+}
+
+.row {
+  width: 100%;
+  margin-bottom: 0px;
+  display: flex;
+}
+.row div {
+  width: 33%;
+  float: left;
+
+}
+.col-6 {
+    width: 50%;
+}
+
+label {
+  display: block;
+  float: left;
+  width: 60%;
+  text-align:left;
+}
+input[type=text],
+input[type=password] {
+  color:#FFF;
+  background: #68add8; /* Old browsers */
+  background: linear-gradient(45deg,  #68add8 0%,#8cbede 100%); /* W3C */
+  width:90%;
+  height:40px;
+  margin: 0 auto 10px auto;
+  font-size:25px;
+  padding-left:15px;
+  border:none;
+  box-shadow: -3px 3px #679acb ;
+  -webkit-appearance:none;
+  border-radius:0;
+  border-top: 1px solid #92c5e2;
+  border-right: 1px solid #92c5e2;
+}
+
+input[type=submit] {
+    color: #fff;
+    background-color:#3f88b8;
+    font-size: 25px;
+    height: 40px;
+    border: none;
+    margin: 0 auto 0 17px;
+    padding: 0 20px 0 20px;
+    -webkit-appearance:none;
+    border-radius:0;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color:#3f7ba2;
+}
+.hero-unit {
+  padding: 60px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+.print-scroll1 {
+  height:50vh;
+  overflow:scroll;
+  margin-top:20px;
+}
+.print-scroll2 {
+  height:100vh;
+  overflow:scroll;
+  margin-top:20px;
+}
+.print-scroll {
+  height:50vh;
+  width:125vh;
+  overflow:scroll;
+  margin-top:20px;
+}
+.table-scroll {
+  height:300px;
+  overflow:auto;
+  margin-top:20px;
+}
+.table-scroll1 {
+  height:150px;
+  overflow:auto;
+  margin-top:20px;
+}
+@media print{
+  .page-break	{ display: block; page-break-after: always; }
+
+}
+@page{
+  size: 5in 5in;
+  margin: 10%;
+}
