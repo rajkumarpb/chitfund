@@ -9,7 +9,7 @@
     should be pay to the prized subscribers according to those chit groups after getting proper guarantees from the auction winner.
     
 # Process 
-  The work includes creating a dashboard on 
+   ## The work includes creating a dashboard on 
         * Login Page
         * Home Page contains Menus
 Group Addition
