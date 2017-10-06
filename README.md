@@ -1,6 +1,6 @@
 # ChitFund Management
-   * Developed a Responsive Web Page with PHP, HTML, CSS for local Chit fund Management.
-   * Created a Chit fund management intranet website for a local Chit fund group .
+   * Developed a Intranet Responsive Web Page with PHP, HTML, CSS for local Chit fund Management.
+   
 ## Description about ChitFund
 
   * This application basically deals with the Chit fund companies which will have the transactions like starting chit groups, 
