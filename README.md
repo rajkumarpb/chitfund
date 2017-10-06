@@ -14,11 +14,11 @@
     * Home Page contains Menus
     * Group Addition
     * Member Addition
-Group Owner Addition
-Link the Group & Member
-Auction Details
-Amount Paid/not Report
-Print the Receipt for every Member when the auction is completed.
+    * Group Owner Addition
+    * Link the Group & Member
+    * Auction Details
+    * Amount Paid/not Report
+    * Print the Receipt for every Member when the auction is completed.
 
  
 
