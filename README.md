@@ -1,5 +1,5 @@
 # ChitFund Management
-   * Developed a Intranet Responsive Web Page with PHP, HTML, CSS for local Chit fund Management.
+   * Developed an offline Responsive Web Page with PHP, HTML, CSS for local Chit fund Management.
    
 ## Description about ChitFund
 
