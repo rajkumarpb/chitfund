@@ -11,8 +11,8 @@
     
 # Process 
    ## The work includes creating a dashboard on 
-    * Login Page
-    * Home Page contains Menus
+   * Login Page
+   * Home Page contains Menus
     * Group Addition
     * Member Addition
     * Group Owner Addition
