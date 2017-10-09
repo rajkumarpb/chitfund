@@ -21,7 +21,5 @@
     * Amount Paid/not Report
     * Print the Receipt for every Member when the auction is completed.
 
- 
-
 ## Website for this project
    https://aarthyravi.github.io/chitfund/
